@@ -1,0 +1,44 @@
+{
+    "bst": {
+        "123": {
+            "id": 123,
+            "name": "vistara",
+            "type": "Landing",
+            "priority": "Normal",
+            "emergency": "None",
+            "status": "Processed",
+            "entry_time": 1764373170.9143195,
+            "exit_time": 1764373231.602126,
+            "wait_minutes": 1.01
+        },
+        "196": {
+            "id": 196,
+            "name": "Indigo196",
+            "type": "Landing",
+            "priority": "Normal",
+            "emergency": "None",
+            "status": "Cancelled",
+            "entry_time": 1764373222.3288722,
+            "exit_time": 1764373462.781563,
+            "wait_minutes": 4.01
+        },
+        "121": {
+            "id": 121,
+            "name": "emirates121",
+            "type": "Landing",
+            "priority": "Emergency",
+            "emergency": "Fuel Low",
+            "status": "Processed",
+            "entry_time": 1764373310.9494643,
+            "exit_time": 1764373508.420269,
+            "wait_minutes": 3.29
+        }
+    },
+    "normal_queue": [],
+    "emergency_queue": [],
+    "history": [
+        123,
+        196,
+        121
+    ]
+}

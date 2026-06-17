@@ -1,0 +1,17 @@
+================== AIRPORT REPORT (BY FLIGHT ID) ==================
+
+ID: 158 | Name: GoFirst    | Type: Landing  | Priority: NORMAL    | Emergency: None         | Wait: 13 | Status: PROCESSED
+ID: 175 | Name: Vistara    | Type: Takeoff  | Priority: NORMAL    | Emergency: None         | Wait: 14 | Status: PROCESSED
+ID: 199 | Name: AirAsia    | Type: Landing  | Priority: NORMAL    | Emergency: None         | Wait:  4 | Status: PROCESSED
+ID: 287 | Name: SpiceJet   | Type: Takeoff  | Priority: NORMAL    | Emergency: None         | Wait: 16 | Status: CANCELLED
+ID: 329 | Name: AirAsia    | Type: Landing  | Priority: NORMAL    | Emergency: None         | Wait: 14 | Status: PROCESSED
+ID: 402 | Name: SpiceJet   | Type: Landing  | Priority: NORMAL    | Emergency: None         | Wait:  1 | Status: PROCESSED
+ID: 582 | Name: Vistara    | Type: Landing  | Priority: NORMAL    | Emergency: None         | Wait:  8 | Status: PROCESSED
+ID: 641 | Name: AirIndia   | Type: Takeoff  | Priority: NORMAL    | Emergency: None         | Wait: 12 | Status: PROCESSED
+ID: 680 | Name: GoFirst    | Type: Takeoff  | Priority: NORMAL    | Emergency: None         | Wait: 15 | Status: PROCESSED
+ID: 788 | Name: Indigo     | Type: Takeoff  | Priority: NORMAL    | Emergency: None         | Wait: 19 | Status: CANCELLED
+
+----------------------------------------------------------------
+Total: 10 | Processed: 8 | Pending: 0 | Cancelled: 2 | Delayed(>10): 7
+Emergency: 0 | Normal: 10 | Avg Wait: 11.60
+================================================================
